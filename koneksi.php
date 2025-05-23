@@ -2,7 +2,7 @@
 
 $host = 'localhost';
 $user = 'root';
-$password = '';
+$password = 'root';
 $db = 'puskesmas';
 $charset = 'utf8mb4';
 
